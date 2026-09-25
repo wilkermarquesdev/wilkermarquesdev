@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Wilker José Marques
 
-<!--
-**wilkermarquesdev/wilkermarquesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Tecnologia da Informação | Suporte | Infraestrutura | Desenvolvimento**
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML • CSS • JavaScript • SQL • Git • GitHub • Linux • Docker • Proxmox • Supabase • Vercel
+
+## 🚀 Projetos
+
+* Sistemas Web
+* Aplicações SaaS
+* Automação
+* Infraestrutura e servidores
+
+## 📚 Atualmente estudando
+
+Desenvolvimento Web • Inteligência Artificial • Cloud • Segurança da Informação • Automação
+
+
+
+
+📫 **Contato:** [wilker.marques.dev@gmail.com]
+📱 [WhatsApp](https://wa.me/5562994215080)
